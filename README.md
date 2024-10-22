@@ -7,3 +7,4 @@
 - *Solutions might be flawed* occasionally. Also don't just copy paste as it doesn't teach you anything  
 ##### Plase use responsibly!!!
 ##### you can ask anything on the discussion tab on the repository
+> https://github.com/Efe0909/cs104-lab/discussions/1
